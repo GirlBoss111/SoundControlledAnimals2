@@ -1,0 +1,44 @@
+body
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: lavender;
+}
+
+.headerdiv
+{
+    background-color: aliceblue;
+    color:maroon;
+}
+
+.headerdiv p
+{
+    color:cadetblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.maindiv button
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    margin-top: 30;
+    width: 130px;
+    font-size: 13px;
+}
+
+.copyrightfooter
+{
+    color:midnightblue;
+    background-color: rgb(161, 205, 244);
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    font-size: 20px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(153, 163, 217);
+}
